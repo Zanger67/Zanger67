@@ -31,7 +31,7 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 
 
 #### My Public GitHub Organizations
-- 🐄 [CS 2050 Discrete Mathematics TAs](https://github.com/CS-2050) - _The CS 2050 Discrete Mathematics TA team for programs that are useful to the team and other TA teams across campus_
+- 🐄 [CS 2050 Discrete Mathematics TAs](https://github.com/CS-2050) - _Georgia Tech's CS 2050 Discrete Mathematics TA team_
 - 🌎 [Georgia Tech Model United Nations](https://github.com/gtmun) - _Georgia Tech's Model United Nations team_
-- 🎤 [Georgia Tech Glee Club](https://github.com/GleeClub) - _Georgia Tech's Glee Club (low voice choral group), the oldest student organization on campus_
+- 🎤 [Georgia Tech Glee Club](https://github.com/GleeClub) - _Georgia Tech's Glee Club, the oldest student organization on campus_
 - 🤖 [FTC TechnoDynamics 16140](https://github.com/x16140) - _The FIRST Tech Challenge Team I co-founded in high school_
