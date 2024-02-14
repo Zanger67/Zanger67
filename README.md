@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Anthony, a student at Georgia Tech grading in Fall 2024/Spring 2025.
+I'm Anthony, a student at Georgia Tech grading in Fall 2024/Spring 2025. I'm a BS CS student focusing on the Information Internetworks / Intelligence threads. I work as the Head TA of CS 2050 Discrete Mathematics (~700~900 students per semester) and I'm a Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP Lab.
 
 Refer to the following lists for my public work:
 - ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've recently worked on_
