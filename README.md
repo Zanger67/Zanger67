@@ -26,4 +26,12 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 #### Public Work
 - ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've recently worked on_
 - ⭐ [My Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've made notable contributions to, past or present_
-- ⌛ [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
+- ⌛&nbsp;  [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
+<!-- &nbsp; used due to emoji size being one-space less thus requiring a double-space -->
+
+
+#### My Public GitHub Organizations
+- 🐄 [CS 2050 Discrete Mathematics TAs](https://github.com/CS-2050) - _The CS 2050 Discrete Mathematics TA team for programs that are useful to the team and other TA teams across campus_
+- 🌎 [Georgia Tech Model United Nations](https://github.com/gtmun) - _Georgia Tech's Model United Nations team_
+- 🎤 [Georgia Tech Glee Club](https://github.com/GleeClub) - _Georgia Tech's Glee Club (low voice choral group), the oldest student organization on campus_
+- 🤖 [FTC TechnoDynamics 16140](https://github.com/x16140) - _The FIRST Tech Challenge Team I co-founded in high school_
