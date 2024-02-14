@@ -19,11 +19,11 @@ I'm Anthony, a student at Georgia Tech grading in Fall 2024/Spring 2025.
 - Bachelors of Science in Computer Science candidate
 - Threads (Concentrations): Information Internetworks & Intelligence
 
-Positions
+#### Positions
 - Head TA of CS 2050 Discrete Mathematics (~700~900 students / semester)
 - Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP.
 
-Refer to the following lists for my public work:
+#### Public Work
 - ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've recently worked on_
 - ⭐ [My Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've made notable contributions to, past or present_
 - ⏳ [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
