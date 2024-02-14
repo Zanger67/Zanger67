@@ -20,7 +20,7 @@ I'm Anthony, a student at Georgia Tech grading in Fall 2024/Spring 2025.
 - Threads (Concentrations): Information Internetworks & Intelligence
 
 #### Positions
-- Head TA of CS 2050 Discrete Mathematics (\~700\~900 students / semester)
+- Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
 - Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP.
 
 #### Public Work
