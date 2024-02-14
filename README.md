@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm Anthony, a student at Georgia Tech grading in Fall 2024/Spring 2025.
 
 Refer to the following lists for my public work:
-[⚡ Current Projects](https://github.com/stars/Zanger67/lists/my-projects)
-[⭐ My Projects](https://github.com/stars/Zanger67/lists/current-projects)
-[⏳ Hackathons](https://github.com/stars/Zanger67/lists/hackathons)
+- ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've recently worked on_
+- ⭐ [My Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've made notable contributions to, past or present_
+- ⏳ [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
