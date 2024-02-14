@@ -24,8 +24,8 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 - Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP.
 
 #### Public Work (My Lists)
-- ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've recently worked on_
-- ⭐ [My Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've made notable contributions to, past or present_
+- ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've recently worked on_
+- ⭐ [My Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've made notable contributions to, past or present_
 - ⌛&nbsp;  [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
 <!-- &nbsp; used due to emoji size being one-space less thus requiring a double-space -->
 
