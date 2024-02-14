@@ -26,4 +26,4 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) grading in Fal
 #### Public Work
 - ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've recently worked on_
 - ⭐ [My Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've made notable contributions to, past or present_
-- ⏳ [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
+- ⌛ [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
