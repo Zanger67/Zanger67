@@ -30,7 +30,7 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 <!-- &nbsp; used due to emoji size being one-space less thus requiring a double-space -->
 
 
-#### My Public GitHub Organizations
+#### Public GitHub Organizations
 - 🐄 [CS 2050 Discrete Mathematics TAs](https://github.com/CS-2050) - _Georgia Tech's CS 2050 Discrete Mathematics TA team_
 - 🌎 [Georgia Tech Model United Nations](https://github.com/gtmun) - _Georgia Tech's Model United Nations team_
 - 🎤 [Georgia Tech Glee Club](https://github.com/GleeClub) - _Georgia Tech's Glee Club, the oldest student organization on campus_
