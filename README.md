@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Anthony, a student at Georgia Tech grading in Fall 2024/Spring 2025. 
+I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) grading in Fall 2024/Spring 2025. 
 - Bachelors of Science in Computer Science candidate
 - Threads (Concentrations): Information Internetworks & Intelligence
 
