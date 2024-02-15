@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in Fall 2024/Spring 2025. 
 - Bachelors of Science in Computer Science candidate
-- Threads (Concentrations): Information Internetworks & Intelligence
+- Threads (Official Concentrations): Information Internetworks & Intelligence
+- Other Interests: High Performance Computing
 
 #### Positions
 - Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
