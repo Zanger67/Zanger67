@@ -30,6 +30,8 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 - ⌛&nbsp;  [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
 <!-- &nbsp; used due to emoji size being one-space less thus requiring a double-space -->
 
+*Unfortunately, a lot of what I work on is on my GitHub Enterprise account :(*
+
 
 #### Public GitHub Organizations
 - 🐄 [CS 2050 Discrete Mathematics TAs](https://github.com/CS-2050) - _Georgia Tech's CS 2050 Discrete Mathematics TA team_
