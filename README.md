@@ -21,11 +21,11 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 - Other Interests: High Performance Computing
 - [Courses Taken](/courses.md)
 
-#### Positions
+## Positions
 - Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
 - Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP.
 
-#### Public Work (My Lists)
+## Public Work (My Lists)
 - ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've recently worked on_
 - ⭐ [My Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've made notable contributions to, past or present_
 - ⌛&nbsp;  [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
@@ -34,7 +34,7 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 *Unfortunately, a lot of what I work on is on my GitHub Enterprise account :(*
 
 
-#### Primary GitHub Organizations
+## Primary GitHub Organizations
 - 🐄 [CS 2050 Discrete Mathematics TAs](https://github.com/CS-2050) - _Georgia Tech's CS 2050 Discrete Mathematics TA team_
 - 🌎 [Georgia Tech Model United Nations](https://github.com/gtmun) - _Georgia Tech's Model United Nations team_
 - 🎤 [Georgia Tech Glee Club](https://github.com/GleeClub) - _Georgia Tech's Glee Club, the oldest student organization on campus_
