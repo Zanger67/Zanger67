@@ -27,9 +27,9 @@ I'm Anthony, a student at <a href="https://www.gatech.edu/" target="_blank">Geor
 - Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
 - Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP.
 
-## Public Work (My Lists)
-- ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I've recently worked on_
-- ⭐ [My Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've made notable contributions to, past or present_
+## My Work (My Lists)
+- ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I'm working on / recently worked on_
+- ⭐ [My Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've made notable contributions to, past and present_
 - ⌛&nbsp;  [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
 <!-- &nbsp; used due to emoji size being one-space less thus requiring a double-space -->
 
