@@ -19,6 +19,7 @@ I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in 
 - Bachelors of Science in Computer Science candidate
 - Threads (Formal Concentrations): Information Internetworks & Intelligence
 - Other Interests: High Performance Computing
+- [Courses Taken](/courses.md)
 
 #### Positions
 - Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
