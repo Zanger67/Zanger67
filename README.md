@@ -22,7 +22,8 @@ I'm Anthony, a computer science student at <a href="https://www.gatech.edu/" tar
 - Masters of Science in Computer Science candidate (May 2026)
 - Threads (Formal Concentrations): Information Internetworks & Intelligence
 - Other Interests: High Performance Computing
-- [Courses Taken](/courses.md)
+
+[Courses Taken](/courses.md) | [LinkedIn](https://www.linkedin.com/in/zang/)
 
 ## Positions
 - Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
