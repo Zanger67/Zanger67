@@ -2,7 +2,7 @@
 
 ## Georgia Tech
 ### IP
-- N/A
+- N/A currently (Summer Semester Break)
 ### Complete
 - CS1331 Object Oriented Programming
 - CS1332 Data Structures & Algorithms
