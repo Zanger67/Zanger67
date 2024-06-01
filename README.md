@@ -23,7 +23,7 @@ I'm Anthony, a computer science student at <a href="https://www.gatech.edu/" tar
 - Threads (Formal Concentrations): Information Internetworks & Intelligence
 - Other Interests: High Performance Computing
 
-[Courses Taken](/courses.md) | [LinkedIn](https://www.linkedin.com/in/zang/)
+[Courses Taken](/courses.md) | [LinkedIn](https://www.linkedin.com/in/zang/) | anthonywzang@gmail.com
 
 ## Positions
 - Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
