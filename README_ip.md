@@ -1,22 +1,37 @@
 # Allô! I'm Anthony! 👋
 
-I'm Anthony, a computer science student at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> graduating from my Bachelor's in Spring 2025 concentrating in Artificial Intelligence and Information Internetworks and graduating from my Master's specializing in Interactive Intelligence in May 2026. 
-<!-- I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in Fall 2024/Spring 2025.  -->
-- Bachelors of Science in Computer Science candidate (May 2025)
-- Masters of Science in Computer Science candidate (May 2026)
-- Threads (Formal Concentrations): Information Internetworks & Intelligence
-- Other Interests: High Performance Computing
+I'm a BS/MS computer science student at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> 
+concentrating in Artificial Intelligence and Information Internetworks with an interest in HPC.
 
 [Courses Taken](/courses.md) | [LinkedIn](https://www.linkedin.com/in/zang/)
-## Positions
-- Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
-- Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP.
 
 ## My Work (My Lists)
-- ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I'm working on / recently worked on_
-- ⭐ [My Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've made notable contributions to, past and present_
-- ⌛&nbsp;  [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
-<!-- &nbsp; used due to emoji size being one-space less thus requiring a double-space -->
+
+<details open>
+    <summary><h3><a href="https://github.com/stars/Zanger67/lists/current-projects" target="_blank">⚡ Current Projects</a></h3></summary>
+
+    *Things that I'm currently working on / recently worked on.*
+
+
+    #### [WikiLeet]()
+
+</details>
+
+<details close>
+    <summary><h3><a href="https://github.com/stars/Zanger67/lists/my-projects" target="_blank">⭐ Past Projects</a></h3></summary>
+
+*Things I've made notable contributions to -- past and present.*
+
+    
+</details>
+
+<details close>
+    <summary><h3><a href="https://github.com/stars/Zanger67/lists/hackathons" target="_blank">⌛&nbsp;Hackathons</a></h3></summary>
+
+*Hackathon projects including ones that were I've continued developed further after the event*
+    
+</details>
+
 
 *Unfortunately, a lot of what I work on is on my GitHub Enterprise account :(*
 
