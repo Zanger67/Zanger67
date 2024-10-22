@@ -1,6 +1,6 @@
 # Allô! I'm Anthony! 👋
 
-I'm Anthony, a computer science student at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> graduating from my Bachelor's in Spring 2025 concentrating in Artificial Intelligence and Information Internetworks and graduating from my Master's specializing in Interactive Intelligence in May 2026. 
+I'm Anthony, a computer science student at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> graduating on campus from my Master in Computer Science in May of 2026. 
 <!-- I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in Fall 2024/Spring 2025.  -->
 - Bachelors of Science in Computer Science candidate (May 2025)
 - Masters of Science in Computer Science candidate (May 2026)
