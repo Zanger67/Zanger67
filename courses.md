@@ -2,7 +2,10 @@
 
 ## Georgia Tech
 ### IP
-- N/A currently (Summer Semester Break)
+- CS4650 Natural Language Processing
+- CS6675 Internet Services and Systems
+- CS7637 Knowledge-Based AI
+
 ### Complete
 - CS1331 Object Oriented Programming
 - CS1332 Data Structures & Algorithms
