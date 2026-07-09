@@ -1,50 +1,20 @@
 # Allô! I'm Anthony! 👋
 
-I'm Anthony, a computer science student at <a href="https://www.gatech.edu/" target="_blank">Georgia Tech</a> graduating on campus from my Master in Computer Science in May of 2026. 
-<!-- I'm Anthony, a student at [Georgia Tech](https://www.gatech.edu/) graduating in Fall 2024/Spring 2025.  -->
-- Bachelors of Science in Computer Science candidate (May 2025)
-- Masters of Science in Computer Science candidate (May 2026)
-- Threads (Formal Concentrations): Information Internetworks & Intelligence
-- Other Interests: High Performance Computing
+I'm Anthony, a Master in Computer Science graduate at <a href="https://mmm.gatech.edu" target="_blank">Georgia Tech</a> and an AI researcher focusing on safety, interpretability, and observability. Please don't hesitate to reach out, even if we've never met — I love learning about the experiences of others, hearing of new opportunities, helping others in their journey, and being surrounded by the context and knowledge I've yet to know. Beyond research, I'm endlessly curious about how things work from the top down and about investigating the discoveries we've yet to uncover. In my free time, you'll usually find me climbing trees and making bouquets.
 
-[Courses Taken](/courses.md) | [LinkedIn](https://www.linkedin.com/in/zang/)
-## Positions
-- Head TA of CS 2050 Discrete Mathematics (approx 700\~900 students / semester)
-- Student Assistant in GT's Team Phoenix HPC Cluster Competition VIP.
+See my website for more!
 
-## My Work (My Lists)
-- ⚡ [Current Projects](https://github.com/stars/Zanger67/lists/current-projects) - _Projects that I'm working on / recently worked on_
-- ⭐ [My Projects](https://github.com/stars/Zanger67/lists/my-projects) - _Projects that I've made notable contributions to, past and present_
-- ⌛&nbsp;  [Hackathons](https://github.com/stars/Zanger67/lists/hackathons) - _Hackathon projects including ones that were I've continued developed further after the event_
-<!-- &nbsp; used due to emoji size being one-space less thus requiring a double-space -->
+<a href="https://zang.dev" target="_blank">zang.dev</a> | <a href="https://www.linkedin.com/in/zang/" target="_blank">LinkedIn</a>
 
-*Unfortunately, a lot of what I work on is on my GitHub Enterprise account :(*
-
+## Core Affiliations (Current)
+- <a href="https://eilab.gatech.edu/" target="_blank">Human-Centered AI Lab (EILab)</a> at Georgia Tech
+- <a href="https://www.aisi.dev/" target="_blank">AI Safety Initiative at Georgia Tech</a>
 
 ## Primary GitHub Organizations
-- 🐄 [CS 2050 Discrete Mathematics TAs](https://github.com/CS-2050) - _Georgia Tech's CS 2050 Discrete Mathematics TA team_
-- 🌎 [Georgia Tech Model United Nations](https://github.com/gtmun) - _Georgia Tech's Model United Nations team_
-- 🎤 [Georgia Tech Glee Club](https://github.com/GleeClub) - _Georgia Tech's Glee Club, the oldest student organization on campus_
-- 🤖 [FTC TechnoDynamics 16140](https://github.com/x16140) - _The FIRST Tech Challenge Team I co-founded in high school_
-
+- 🧠 <a href="https://github.com/eilab-gt" target="_blank">EILab</a> - _Georgia Tech's Entertainment Intelligence and Human-Centered AI Labs_
+- 🐄 <a href="https://github.com/CS-2050" target="_blank">CS 2050 Discrete Mathematics TAs</a> - _Georgia Tech's CS 2050 Discrete Mathematics TA team_
+- 🌎 <a href="https://github.com/gtmun" target="_blank">Georgia Tech Model United Nations</a> - _Georgia Tech's Model United Nations team_
+- 🎤 <a href="https://github.com/GleeClub" target="_blank">Georgia Tech Glee Club</a> - _Georgia Tech's Glee Club, the oldest student organization on campus_
+- 🤖 <a href="https://github.com/x16140" target="_blank">FTC TechnoDynamics 16140</a> - _The FIRST Tech Challenge Team I co-founded in high school_
 
 <!-- #### Other Stuff -->
-
----
-
-<div align="center">
-<a>
-<img src="https://raw.githubusercontent.com/Zanger67/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/Zanger67/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
-<a>
-<img src="https://raw.githubusercontent.com/Zanger67/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://raw.githubusercontent.com/Zanger67/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-</a>
-
-</div>
-
-<!-- ![Zanger67's Stats](https://github-readme-stats.vercel.app/api?username=Zanger67&theme=prussian&show_icons=true&hide_border=true&count_private=true) -->
-
-
