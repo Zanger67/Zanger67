@@ -7,7 +7,7 @@ See my website for more!
 <a href="https://zang.dev" target="_blank">zang.dev</a> | <a href="https://www.linkedin.com/in/zang/" target="_blank">LinkedIn</a>
 
 ## Core Affiliations (Current)
-- <a href="https://eilab.gatech.edu/" target="_blank">Human-Centered AI Lab (EILab)</a> at Georgia Tech
+- <a href="https://eilab.gatech.edu/" target="_blank">Entertainment Intelligence and Human-Centered AI Labs (HCAI/EI Labs), Georgia Tech</a>
 - <a href="https://www.aisi.dev/" target="_blank">AI Safety Initiative at Georgia Tech</a>
 
 ## Primary GitHub Organizations
