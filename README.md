@@ -19,4 +19,8 @@ See my website for more!
 - 🎤 <a href="https://github.com/GleeClub" target="_blank">Georgia Tech Glee Club</a> - _Georgia Tech's Glee Club, the oldest student organization on campus_
 - 🤖 <a href="https://github.com/x16140" target="_blank">FTC TechnoDynamics 16140</a> - _The FIRST Tech Challenge Team I co-founded in high school_
 
+## Other Git Accounts
+- <a href="https://github.com/dd-anthonyzang" target="_blank">dd-anthonyzang (Datadog)</a>
+- <a href="https://github.com/anthony-zang-ai/" target="_blank">anthony-zang-ai (Applied Intuition)</a>
+
 <!-- #### Other Stuff -->
